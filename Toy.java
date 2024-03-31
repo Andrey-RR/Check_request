@@ -1,7 +1,7 @@
 public class Toy {
-    private String id;
-    private String name;
-    private int frequency; // Частота выпадения
+    private String id;     // уникальный номерefEFEf
+    private String name;  // ИмяEFFFFFFFEAFfefwefwefwefwf
+    private int frequency; // Частота выпадения  eafEFEF
 
     public Toy(String id, String name, int frequency) {
         this.id = id;
@@ -9,7 +9,7 @@ public class Toy {
         this.frequency = frequency;
     }
 
-    // Геттеры и сеттеры
+    // Геттеры и сеттеры fwefwefwefwefwfwefwefwef
     public String getId() {
         return id;
     }
