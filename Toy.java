@@ -1,6 +1,6 @@
 public class Toy {
-    private String id;
-    private String name;
+    private String id;     // уникальный номер
+    private String name;  // Имя
     private int frequency; // Частота выпадения
 
     public Toy(String id, String name, int frequency) {
