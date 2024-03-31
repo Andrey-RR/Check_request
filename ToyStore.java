@@ -31,7 +31,7 @@ public class ToyStore {
                 }
             }
         } catch (IOException e) {
-            System.err.println("ошибка записи" + e.getMessage());
+            System.err.println("!!!ошибочная запись!!!" + e.getMessage());
         }
     }
 }
